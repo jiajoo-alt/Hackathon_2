@@ -48,6 +48,7 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
     This text-based interaction creates a sense of immersion and allows the player to feel involved in the game's world.
    
 6. Save and Load Functionality
+   
    Save progress to continue from where you left off, replay previous levels.
    a. Replay
    b. Restart
