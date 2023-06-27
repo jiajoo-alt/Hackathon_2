@@ -2,7 +2,7 @@
 
 The Hungry Muse Restaurant
 ------------------------------------------------------------
-## Table of contents ##
+## Table of contents ## 
 - [Game Description](#Game-Description)
 - [Game Features](#Game-Features)
 - [How to play the game](#How-to-play-the-game)
@@ -29,34 +29,33 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
 
 ## Game Features
 
-1. Cooking Gameplay
+1. **Cooking Gameplay**<br>
    Prepare a variety of dishes from a menu including pizza, hamburger, pasta, bagel, and taco. The player need to meet the quantity requirement for each level by 
    selecting the appropriate combination of dishes.
 
-2. Recipe Management
+2. **Recipe Management**<br>
    Manage recipes for each dish, including ingredients and preparation steps. This is really crucial as it can adds depth to the gameplay as players need to       
    consider the correct sequence of steps to successfully prepare and serve the dish to the customer.
 
-3. Financial Management
+3. **Financial Management**<br>
    The player able to earn money based on the food they choose to prepared.The game can track the player's earnings.
 
-4. Level Progression
+4. **Level Progression**<br>
    The game can feature multiple levels, each with increasing difficulty and quantity requirements. As players progress, they can unlock new level to enhance their 
    culinary abilities.
 
-5. Interactive descriptive text
+5. **Interactive descriptive text**<br>
     This text-based interaction creates a sense of immersion and allows the player to feel involved in the game's world.
    
-6. Save and Load Functionality
-   
+6. **Save and Load Functionality**<br>
    Save progress to continue from where you left off, replay previous levels.
-   a. Replay
-   b. Restart
-   Restart the game from the beginning to start fresh or take a different approach
-   c. Continue
-   Save progress and resume the game from where you left off
-   d. Quit
-   Option to quit the game at any time, with a confirmation prompt to avoid accidental quitting.
+      - **Replay**<br>
+      - **Restart**<br>
+        Restart the game from the beginning to start fresh or take a different approach<br>
+      - **Continue**<br>
+        Save progress and resume the game from where you left off
+      - **Quit**<br>
+        Option to quit the game at any time, with a confirmation prompt to avoid accidental quitting.
    
 By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfill their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
 
