@@ -12,7 +12,7 @@ The Hungry Muse Restaurant
 - [Link to the game demo video](#Link-to-the-game-demo-video)
 
 ## Game Description
-**The Hungry Muse Restaurant**
+**`The Hungry Muse Restaurant`**
 
 The Hungry Muse Restaurant is a cooking game where the player need to become a chef and decide what dishes he decided to do based on the menu provided and the quantity of the dishes. After that, the chef will need to prepared the food based on the ingredients provided. The chef need to enter the correct sequences of the ingredients. When the dish is done , the dish is then ready to serve to the customer and the chef will get paid too. When the chef completed all the dishes the chef can then procveed to the next level to enjoy more on the game. There will a toal of 5 level in The Hungry Muse Restaurant. 
 
