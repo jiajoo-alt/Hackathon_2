@@ -14,17 +14,14 @@ The Hungry Muse Restaurant
 ## Game Description
 **`The Hungry Muse Restaurant`**
 
-The Hungry Muse Restaurant is a cooking game where the player need to become a chef and decide what dishes he decided to do based on the menu provided and the quantity of the dishes. After that, the chef will need to prepared the food based on the ingredients provided. The chef need to enter the correct sequences of the ingredients. When the dish is done , the dish is then ready to serve to the customer and the chef will get paid too. When the chef completed all the dishes the chef can then procveed to the next level to enjoy more on the game. There will a toal of 5 level in The Hungry Muse Restaurant. 
-
-One day, after a tiring day from work, you unexpectedly received a letter from your grandpa. In the letter, he tells you that he is retiring soon and hopes that you will inherit his beloved restaurant. After thinking hard about it for a few days, you decide that it's time to step away from your hectic white-collar job and pick up your old passion: cooking. You return to your grandpa's place to continue his legacy and embark on an exciting culinary adventure.
-
-In The Hungry Muse Restaurant, you will take on the role of a budding chef, tasked with running and managing your grandpa's restaurant. Your goal is to create a thriving dining establishment and earn a reputation as a masterful chef. Prepare to indulge your customers' taste buds with delectable dishes, experiment with new recipes, and create memorable dining experiences.
+The Hungry Muse Restaurant is an interactive cooking game that allows players to step into the shoes of a chef. They have the freedom to choose the type and quantity of dishes they wish to prepare from a provided menu. Once the selection is made, the chef must skillfully prepare the food using the given ingredients. The key to success lies in entering the correct sequences of ingredients to create the desired dishes. Once a dish is completed, it can be served to a customer, resulting in both payment and satisfaction for the chef. Upon successfully completing all the dishes, the chef can progress to the next level, unlocking more exciting gameplay experiences. The Hungry Muse Restaurant consists of a total of five levels, each offering new challenges and opportunities for culinary enjoyment. This is becase as progress through the levels, the number of order required may increase.
 
 Each level presents a new challenge and culinary opportunity. For example, in Level 1, the scent of success fills the air as the tables quickly fill up. Your task is to prepare a total of 2 mouthwatering dishes to serve your eager customers. However, there's a twist - you won't be limited to a single dish. The menu boasts a delightful array of options, including Hamburger, Pizza, Taco, Bagel, and Pasta. Choose wisely to meet the quantity requirements for each customer, and remember that some of the ingredients can be repeated, allowing for creative combinations and flavors.
 
-Put on your apron, sharpen your knives, and let your culinary adventure begin! As you progress through the game, you'll unlock new levels and face increasing challenges. Manage your resources effectively to satisfy your customers and earn their loyalty.
+**Storyline**<br>
+One day, after a tiring day from work, you unexpectedly received a letter from your grandpa. In the letter, he tells you that he is retiring soon and hopes that you will inherit his beloved restaurant. After thinking hard about it for a few days, you decide that it's time to step away from your hectic white-collar job and pick up your old passion: cooking. You return to your grandpa's place to continue his legacy and embark on an exciting culinary adventure. In The Hungry Muse Restaurant, you will take on the role of a budding chef, tasked with running and managing your grandpa's restaurant. Your goal is to create a thriving dining establishment and earn a reputation as a masterful chef.
 
-The Hungry Muse Restaurant offers an immersive experience with its engaging gameplay. Whether you're crafting gourmet dishes, managing your restaurant's finances you'll feel the thrill and excitement of the culinary world.
+Put on your apron, sharpen your knives, and let your culinary adventure begin! As you progress through the game, you'll unlock new levels and face increasing challenges. Manage your resources effectively to satisfy your customers and earn their loyalty.
 
 Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, and create a dining destination that will leave a lasting impression on customers? Step into the kitchen, fire up the stove, and let your passion for cooking shine in The Hungry Muse Restaurant. Chef!
 
@@ -63,14 +60,21 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
 By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfill their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
 
 ## How to play the game 
-1. When entering th
-- Menu to choose
-- Choose the dishes and quantity needed to fulfil the level requirement
-- Start to made the dishes, the ingredients will be show after choosing the dishes and quantity
-- Player need to enter the correct sequence of the ingredients in order to pass through the level and earn the money for the revenue
-- Once completed the level, the player can choose Restart, continur to the next level, replay the the particular level or quit the game.
-- 
-
+1. Launch the game and enter the main menu.
+2. In the menu, the player will have options to choose from.
+   - Restart
+   - Continue
+   - Quit
+3. Game start, player select the desired dishes from the menu and specify the quantity required to fulfill the level's requirements.
+4. Once palyer have made your selection, the game will provide a list of ingredients needed for the chosen dishes.
+5. Player need to enter the correct sequence of ingredients in order to successfully prepare the dishes
+6. Pay close attention to the order and be precise. If the sequence entered is incorrect, players will need to re-enter it until it is correct.
+7. When player have completed a level and successfully prepared all the dishes, the player will earn revenue and receive payment.
+8. After completing a level, you will have several options:
+      - Restart: You can choose to start the current level from the beginning.
+      - Continue: Proceed to the next level and face new culinary adventures.
+      - Replay: Replay the same level to improve your performance or try different strategies.
+      - Quit: Exit the game and return to the main menu or close the game entirely.
 
 ## How object-oriented concepts were used to develop your game 
 
