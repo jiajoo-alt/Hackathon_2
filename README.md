@@ -18,7 +18,7 @@ The Hungry Muse Restaurant is an interactive cooking game that allows players to
 
 Each level presents a new challenge and culinary opportunity. For example, in Level 1, the scent of success fills the air as the tables quickly fill up. Your task is to prepare a total of 2 mouthwatering dishes to serve your eager customers. However, there's a twist - you won't be limited to a single dish. The menu boasts a delightful array of options, including Hamburger, Pizza, Taco, Bagel, and Pasta. Choose wisely to meet the quantity requirements for each customer, and remember that some of the ingredients can be repeated, allowing for creative combinations and flavors.
 
-**Storyline**<br>
+**`Storyline`**<br>
 One day, after a tiring day from work, you unexpectedly received a letter from your grandpa. In the letter, he tells you that he is retiring soon and hopes that you will inherit his beloved restaurant. After thinking hard about it for a few days, you decide that it's time to step away from your hectic white-collar job and pick up your old passion: cooking. You return to your grandpa's place to continue his legacy and embark on an exciting culinary adventure. In The Hungry Muse Restaurant, you will take on the role of a budding chef, tasked with running and managing your grandpa's restaurant. Your goal is to create a thriving dining establishment and earn a reputation as a masterful chef.
 
 Put on your apron, sharpen your knives, and let your culinary adventure begin! As you progress through the game, you'll unlock new levels and face increasing challenges. Manage your resources effectively to satisfy your customers and earn their loyalty.
@@ -49,6 +49,7 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
 6. **Save and Load Functionality**<br>
    Save progress to continue from where you left off, replay previous levels.
       - **Replay**<br>
+        Replay the same level to improve your performance or try different strategies.
       - **Restart**<br>
         Restart the game from the beginning to start fresh or take a different approach<br>
       - **Continue**<br>
@@ -62,19 +63,22 @@ By combining all these features, the text-based restaurant game offers an immers
 ## How to play the game 
 1. Launch the game and enter the main menu.
 2. In the menu, the player will have options to choose from.
-   - Restart
-   - Continue
-   - Quit
-3. Game start, player select the desired dishes from the menu and specify the quantity required to fulfill the level's requirements.
+   - **New Game**
+   - **Continue**
+   - **Exit**
+3. Game start, player select the **desired dishes** from the menu and **specify the quantity** required to fulfill the level's requirements.
 4. Once palyer have made your selection, the game will provide a list of ingredients needed for the chosen dishes.
-5. Player need to enter the correct sequence of ingredients in order to successfully prepare the dishes
+5. Player need to enter the **correct sequence** of ingredients in order to successfully prepare the dishes
 6. Pay close attention to the order and be precise. If the sequence entered is incorrect, players will need to re-enter it until it is correct.
-7. When player have completed a level and successfully prepared all the dishes, the player will earn revenue and receive payment.
+7. When player have completed a level and successfully prepared all the dishes, the player will earn revenue and **receive payment**.
 8. After completing a level, you will have several options:
-      - Restart: You can choose to start the current level from the beginning.
-      - Continue: Proceed to the next level and face new culinary adventures.
-      - Replay: Replay the same level to improve your performance or try different strategies.
-      - Quit: Exit the game and return to the main menu or close the game entirely.
+      - **Restart Game**: You can choose to start the current level from the beginning.
+      - **Continue Game**: Proceed to the next level and face new culinary adventures.
+      - **Replay Succeeded Game**: Replay the same level to improve your performance or try different strategies.
+      - **Quit**: Exit the game and return to the main menu or close the game entirely. <br>
+      
+   Note 1: The `Replay Succeeded Game` option only available in Level **2** to **5**. <br>
+   Note 2: The `Continue Game` option only available in Level **1** to **4**. <br>
 
 ## How object-oriented concepts were used to develop your game 
 
