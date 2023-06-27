@@ -59,10 +59,19 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
    
 By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfill their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
 
-## How to play the game  
+## How to play the game 
+
 ## How object-oriented concepts were used to develop your game 
-## How linked lists/stacks/queues play a role in your game 
+
+## How linked list,stacks,queues play a role in the game 
+- **Linked list**<br>
+We used linked list to store
+- **Stacks**<br>
+We used stacks in
+- **Queues**<br>
+We use Queues to
 ## Screenshots of the game 
 ![newwwww](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/46ccf9f8-0d89-4564-b2fe-03f63a303ab1)
 
-## Link to the game demo video 
+## Link to the game demo video
+[press](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets) 
