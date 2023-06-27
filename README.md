@@ -48,24 +48,32 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
    
 6. **Save and Load Functionality**<br>
    Save progress to continue from where you left off, replay previous levels.
-      - **Replay**<br>
-        Replay the same level to improve your performance or try different strategies.
-      - **Restart**<br>
-        Restart the game from the beginning to start fresh or take a different approach<br>
+      - **New Game**<br>
+        Start a new game.
       - **Continue**<br>
-        Save progress and resume the game from where you left off
+        Save progress and resume the game from where you left off.
+      - **Exit**<br>
+        Exit the game.
+   **After enter the game**<br>
+      - **Restart Game**<br>
+        Restart the game from the beginning which is Level 1.<br>
+      - **Continue Game**<br>
+        Proceed to the next level of the game from the current level. The money earn by the player in the current level wil be saved.
+      - **Replay**<br>
+        Replay the same level to provide an opportunity to enhance player performance or allow player experiment with different strategies. Although the player replay the game the the p
       - **Quit**<br>
-        Option to quit the game at any time, with a confirmation prompt to avoid accidental quitting.
-7. **Record the price earn by the player
+        Option to quit the game after completing the current level. The current progress and the status of the palyer, and the moeny earn by the pklayer will be saved to the xtxt file.
+        Players can also choose to quit the game after completing the current level.
+7. **Record the price earn by the player**
    
 By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfill their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
 
 ## How to play the game 
 1. Launch the game and enter the main menu.
 2. In the menu, the player will have options to choose from.
-   - **New Game**
-   - **Continue**
-   - **Exit**
+   - **New Game** ：
+   - **Continue** ：
+   - **Exit** ：
 3. Game start, player select the **desired dishes** from the menu and **specify the quantity** required to fulfill the level's requirements.
 4. Once palyer have made your selection, the game will provide a list of ingredients needed for the chosen dishes.
 5. Player need to enter the **correct sequence** of ingredients in order to successfully prepare the dishes
