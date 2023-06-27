@@ -33,21 +33,24 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
    selecting the appropriate combination of dishes.
 
 2. **Recipe Management**<br>
-   Manage recipes for each dish, including ingredients and preparation steps. This is really crucial as it can adds depth to the gameplay as players need to       
+   Manage recipes for each dish, including ingredients and preparation steps. This is really crucial as it can adds depth to the gameplay as players need to      
    consider the correct sequence of steps to successfully prepare and serve the dish to the customer.
 
 3. **Financial Management**<br>
    The player able to earn money based on the food they choose to prepared.The game can track the player's earnings.
 
 4. **Level Progression**<br>
-   The game can feature multiple levels, each with increasing difficulty and quantity requirements. As players progress, they can unlock new level to enhance their 
-   culinary abilities.
+   The game can feature multiple levels, each with increasing difficulty and quantity requirements. As players progress, they can unlock new level to enhance their culinary abilities.
 
 5. **Interactive descriptive text**<br>
-    This text-based interaction creates a sense of immersion and allows the player to feel involved in the game's world.
+   This text-based interaction creates a sense of immersion and allows the player to feel involved in the game's world.
    
 6. **Save and Load Functionality**<br>
-   Save progress to continue from where you left off, replay previous levels.
+   Thios feartallows players to save their progress and resume their game at a later time. When players choose to save their status, the game stores relevant information such as completed levels, earned rewards, unlocked features, and any other relevant player data.
+
+By utilizing the "Load" option, players can retrieve their saved progress and seamlessly continue playing from where they left off. This feature is particularly useful when players need to take a break, switch devices, or simply want to return to the game at a later time without losing their achievements.
+
+The "Save and Load" functionality enhances the player experience by providing flexibility and convenience, ensuring that players can enjoy the game on their own schedule while maintaining their hard-earned progress.
       - **New Game**<br>
         Start a new game.
       - **Continue**<br>
@@ -62,7 +65,7 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
       - **Replay**<br>
         Replay the same level to provide an opportunity to enhance player performance or allow player experiment with different strategies. Although the player replay the game the the p
       - **Quit**<br>
-        Option to quit the game after completing the current level. The current progress and the status of the palyer, and the moeny earn by the pklayer will be saved to the xtxt file.
+        Option to quit the game after completing the current level. The current progress and the status of the palyer, and the moeny earn by the pklayer will be saved to the txt file.
         Players can also choose to quit the game after completing the current level.
 7. **Record the price earn by the player**
    
@@ -80,10 +83,10 @@ By combining all these features, the text-based restaurant game offers an immers
 6. Pay close attention to the order and be precise. If the sequence entered is incorrect, players will need to re-enter it until it is correct.
 7. When player have completed a level and successfully prepared all the dishes, the player will earn revenue and **receive payment**.
 8. After completing a level, you will have several options:
-      - **Restart Game**: You can choose to start the current level from the beginning.
-      - **Continue Game**: Proceed to the next level and face new culinary adventures.
-      - **Replay Succeeded Game**: Replay the same level to improve your performance or try different strategies.
-      - **Quit**: Exit the game and return to the main menu or close the game entirely. <br>
+      - **Restart Game** : You can choose to start the current level from the beginning.
+      - **Continue Game** : Proceed to the next level and face new culinary adventures.
+      - **Replay Succeeded Game** : Replay the same level to improve your performance or try different strategies.
+      - **Quit** : Exit the game and return to the main menu or close the game entirely. <br>
       
    Note 1: The `Replay Succeeded Game` option only available in Level **2** to **5**. <br>
    Note 2: The `Continue Game` option only available in Level **1** to **4**. <br>
