@@ -63,4 +63,6 @@ By combining all these features, the text-based restaurant game offers an immers
 ## How object-oriented concepts were used to develop your game 
 ## How linked lists/stacks/queues play a role in your game 
 ## Screenshots of the game 
+![newwwww](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/46ccf9f8-0d89-4564-b2fe-03f63a303ab1)
+
 ## Link to the game demo video 
