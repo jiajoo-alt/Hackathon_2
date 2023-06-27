@@ -14,7 +14,7 @@ The Hungry Muse Restaurant
 ## Game Description
 **The Hungry Muse Restaurant**
 
-Random Wars is an addictive idle strategy game where you need to build your army, dominate the land, and obliterate enemy castles. Your cute rabbit unit will roam the field randomly, capturing gray cells and turning them blue. They will also gather the wood resource on their way. When you gather enough wood, you can build your barracks and let the bull units wander around to capture enemies' cells. Engage in thrilling battles and conquer the realm!
+The Hungry Muse Restaurant is a cooking game where the player need to become a chef and decide what dishes he decided to do based on the menu provided and the quantity of the dishes. After that, the chef will need to prepared the food based on the ingredients provided. The chef need to enter the correct sequences of the ingredients. When the dish is done , the dish is then ready to serve to the customer and the chef will get paid too. When the chef completed all the dishes the chef can then procveed to the next level to enjoy more on the game. There will a toal of 5 level in The Hungry Muse Restaurant. 
 
 One day, after a tiring day from work, you unexpectedly received a letter from your grandpa. In the letter, he tells you that he is retiring soon and hopes that you will inherit his beloved restaurant. After thinking hard about it for a few days, you decide that it's time to step away from your hectic white-collar job and pick up your old passion: cooking. You return to your grandpa's place to continue his legacy and embark on an exciting culinary adventure.
 
@@ -58,11 +58,18 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
         Save progress and resume the game from where you left off
       - **Quit**<br>
         Option to quit the game at any time, with a confirmation prompt to avoid accidental quitting.
+7. **Record the price earn by the player
    
 By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfill their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
 
 ## How to play the game 
-
+1. When entering th
+- Menu to choose
+- Choose the dishes and quantity needed to fulfil the level requirement
+- Start to made the dishes, the ingredients will be show after choosing the dishes and quantity
+- Player need to enter the correct sequence of the ingredients in order to pass through the level and earn the money for the revenue
+- Once completed the level, the player can choose Restart, continur to the next level, replay the the particular level or quit the game.
+- 
 
 
 ## How object-oriented concepts were used to develop your game 
