@@ -4,12 +4,12 @@ The Hungry Muse Restaurant
 ------------------------------------------------------------
 ## Table of contents ##
 - [Game Description](#Game-Description)
-- [Game Features](Game-Features)
-- [How to play the game](How-to-play-the-game)
-- [How object-oriented concepts were used to develop your game](How-object-oriented-concepts-were-used-to-develop-your-game)
-- [How linked lists/stacks/queues play a role in your game](How-linked-lists/stacks/queues-play-a-role-in-your-game)
-- [Screenshots of the game](Screenshots-of-the-game)
-- [Link to the game demo video](Link-to-the-game-demo-video)
+- [Game Features](#Game-Features)
+- [How to play the game](#How-to-play-the-game)
+- [How object-oriented concepts were used to develop your game](#How-object-oriented-concepts-were-used-to-develop-your-game)
+- [How linked lists/stacks/queues play a role in your game](#How-linked-lists/stacks/queues-play-a-role-in-your-game)
+- [Screenshots of the game](#Screenshots-of-the-game)
+- [Link to the game demo video](#Link-to-the-game-demo-video)
 
 ## Game Description
 **The Hungry Muse Restaurant**
