@@ -51,29 +51,29 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
       - **New Game**<br>
         Start a new game. Player can start a fresh game, beginning from the first level and progressing through the game's challenges and levels.
       - **Continue**<br>
-        Save progress and resume the game from where you left off. The game will read the txt file that saved palyer status in order to let the player resume the game that the player left off last time.
+        Save progress and resume the game from where you left off. The game will read the txt file that saved player status in order to let the player resume the game that the player left off last time.
       - **Exit**<br>
         Exit the game. Close the entire gameplay.<br>
    **After enter the game**<br>
       - **Restart Game**<br>
         Restart the game from the beginning which is Level 1.<br>
       - **Continue Game**<br>
-        Proceed to the next level of the game from the current level. The money earn by the player in the current level wil be saved.
+        Proceed to the next level of the game from the current level. The money earned by the player in the current level wil be saved.
       - **Replay**<br>
         Replay the same level to provide an opportunity to enhance player performance or allow player experiment with different strategies. Although the player replay the game the the p
       - **Quit**<br>
-        Option to quit the game after completing the current level. The current progress and the status of the palyer, and the moeny earn by the pklayer will be saved to the txt file.Players can also choose to quit the game after completing the current level.
+        Option to quit the game after completing the current level. The current progress and the status of the player, and the money earned by the player will be saved to the txt file.Players can also choose to quit the game after completing the current level.
    
-By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfill their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
+By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfil their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
 
 ## How to play the game 
 1. Launch the game and enter the main menu.
 2. In the menu, the player will have options to choose from.
    - **New Game** ：Start a new game.
-   - **Continue** ：Resume the game from where player left off last time without losing any of their accomplishments.
+   - **Continue** ：Resume the game from where the player left off last time without losing any of their accomplishments.
    - **Exit** ：Exit the game and close the game entirely. 
-3. Game start, player select the **desired dishes** from the menu and **specify the quantity** required to fulfill the level's requirements.
-4. Once palyer have made your selection, the game will provide a list of ingredients needed for the chosen dishes.
+3. Game start, player select the **desired dishes** from the menu and **specify the quantity** required to fulfil the level's requirements.
+4. Once player have made your selection, the game will provide a list of ingredients needed for the chosen dishes.
 5. Player need to enter the **correct sequence** of ingredients in order to successfully prepare the dishes
 6. Pay close attention to the order and be precise. If the sequence entered is incorrect, players will need to re-enter it until it is correct.
 7. When player have completed a level and successfully prepared all the dishes, the player will earn revenue and **receive payment**.
@@ -95,7 +95,7 @@ We used linked list to store
 - **Stacks**<br>
 We used stacks in
 - **Queues**<br>
-We use Queues to saved the type of dishes and the amount of each type of the dishes in to a queue. Whne the pl
+We use Queues to save the type of dishes and the amount of each type of the dishes in to a queue. When the pl
 ## Screenshots of the game 
 ![newwwww](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/46ccf9f8-0d89-4564-b2fe-03f63a303ab1)
 
