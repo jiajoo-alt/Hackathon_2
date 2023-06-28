@@ -100,6 +100,9 @@ We use Queues to save the type of dishes and the amount of each type of the dish
 
 ![1st screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/5b230315-2717-4d6b-a531-2fcb75bddf7f)
 
+![2nd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/a799a67b-f566-497b-ac31-775a2762a345)
+
+![3rd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/d3868a90-d906-4340-bae7-adb9465cdd2d)
 
 ## Link to the game demo video
 [press](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets) 
