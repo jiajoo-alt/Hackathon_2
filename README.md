@@ -111,4 +111,4 @@ We have also involved queue in our game to store the food type entered by the pl
 ![3rd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/7387d985-eee8-4f87-b9f0-546b3243d47e)
 
 ## Link to the game demo video
-[The Hungry Muse Demo Video](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets) 
+[The Hungry Muse Demo Video](https://youtu.be/mABC599WFpA) 
