@@ -33,19 +33,19 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
    selecting the appropriate combination of dishes.
 
 2. **Recipe Management**<br>
-   Manage recipes for each dish, including ingredients and preparation steps. This is really crucial as it can adds depth to the gameplay as players need to      consider the correct sequence of steps to successfully prepare and serve the dish to the customer.
+   Manage recipes for each dish, including ingredients and preparation steps. This is really crucial as it can adds depth to the gameplay as players need to consider the correct sequence of steps to successfully prepare and serve the dish to the customer. If the players enter the incorrect step, we will offer hints to the player by telling them which step is incorrect.
 
 3. **Financial Management**<br>
-   The player able to earn money based on the food they choose to prepared.The game can track the player's earnings. Throughout the game, all the money earned by the player in each level will be retained and saved into a txt file. When the player decides to `quit` the game, a comprehensive summary will be presented, highlighting the player's highest earnings achieved in each level. This summary provides a clear overview of the maximum amount of money obtained by the player at various stages throughout their gameplay. This allows the player to see their financial achievements and serves as a record of their success in accumulating wealth throughout their gameplay experience.
+   The player able to earn money based on the food they choose to prepared.The game can track the player's earnings. Throughout the game, all the money earned by the player in each level will be retained and saved into a `price.txt file`. When the player decides to `quit` the game, a comprehensive summary will be presented, highlighting the player's highest earnings achieved in each level. This allows the player to see their best financial achievements in each level and serves as a record throughout their gameplay experience.
 
-4. **Level Progression**<br>
+5. **Level Progression**<br>
    The game can feature multiple levels, each with increasing difficulty and quantity requirements. As players progress, they can unlock new level to enhance their culinary abilities.
 
-5. **Interactive descriptive text**<br>
+6. **Interactive descriptive text**<br>
    This text-based interaction creates a sense of immersion and allows the player to feel involved in the game's world.
    
-6. **Save and Load Functionality**<br>
-   This features allows players to save their progress and resume their game at a later time. When players quit or exit the game their status will be saved. The game will store some relevant information such as completed levels and moeny earned. The player can seamlessly continue playing from where they left off. This feature is particularly useful when players need to take a break or simply want to return to the game at a later time without losing their achievements. There are few options provided in the game.
+7. **Save and Load Functionality**<br>
+   This features allows players to save their progress and resume their game at a later time. Everytime the player complete the level their status will keep in linked list and savedGame.txt file. The game will also store the moeny earned into price.txt file. The player can seamlessly continue playing from where they left off. This feature is particularly useful when players need to take a break or simply want to return to the game at a later time without losing their achievements. There are few options provided in the game.
 
    **Before enter the game**<br>   
       - **New Game**<br>
@@ -83,8 +83,8 @@ By combining all these features, the text-based restaurant game offers an immers
       - **Replay Succeeded Game** : Replay the same level to improve your performance or try different strategies.
       - **Quit** : Exit the game and close the game entirely. <br>
       
-   Note 1: The `Replay Succeeded Game` option only available in Level **2** to **5**. <br>
-   Note 2: The `Continue Game` option only available in Level **1** to **4**. <br>
+   Note : The `Replay Succeeded Game` option only available from Level **2**.
+
 
 ## How object-oriented concepts were used to develop your game 
 
