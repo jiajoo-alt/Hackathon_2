@@ -51,9 +51,9 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
       - **New Game**<br>
         Start a new game. Player can start a fresh game, beginning from the first level and progressing through the game's challenges and levels.
       - **Continue**<br>
-        Save progress and resume the game from where you left off.
+        Save progress and resume the game from where you left off. The game will read the txt file that saved palyer status in order to let the player resume the game that the player left off last time.
       - **Exit**<br>
-        Exit the game.<br>
+        Exit the game. Close the entire gameplay.<br>
    **After enter the game**<br>
       - **Restart Game**<br>
         Restart the game from the beginning which is Level 1.<br>
@@ -88,13 +88,14 @@ By combining all these features, the text-based restaurant game offers an immers
 
 ## How object-oriented concepts were used to develop your game 
 
+
 ## How linked list,stacks,queues play a role in the game 
 - **Linked list**<br>
-We used linked list to store
+We used linked list to store 
 - **Stacks**<br>
 We used stacks in
 - **Queues**<br>
-We use Queues to
+We use Queues to saved the type of dishes and the amount of each type of the dishes in to a queue. Whne the pl
 ## Screenshots of the game 
 ![newwwww](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/46ccf9f8-0d89-4564-b2fe-03f63a303ab1)
 
