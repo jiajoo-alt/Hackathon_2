@@ -97,12 +97,11 @@ We used stacks in
 - **Queues**<br>
 We use Queues to save the type of dishes and the amount of each type of the dishes in to a queue. When the pl
 ## Screenshots of the game 
+![1st screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/b4a50993-0ab5-4e85-8e7e-1473bee5c770)
 
-![1st screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/5b230315-2717-4d6b-a531-2fcb75bddf7f)
+![2nd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/2e64fe1c-63fa-424f-b26e-b45528feafc8)
 
-![2nd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/a799a67b-f566-497b-ac31-775a2762a345)
-
-![3rd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/d3868a90-d906-4340-bae7-adb9465cdd2d)
+![3rd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/7387d985-eee8-4f87-b9f0-546b3243d47e)
 
 ## Link to the game demo video
 [The Hungry Muse Demo Video](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets) 
