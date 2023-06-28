@@ -105,4 +105,4 @@ We use Queues to save the type of dishes and the amount of each type of the dish
 ![3rd screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/d3868a90-d906-4340-bae7-adb9465cdd2d)
 
 ## Link to the game demo video
-[press](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets) 
+[The Hungry Muse Demo Video](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets) 
