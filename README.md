@@ -49,22 +49,22 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
 
    **Before enter the game**<br>   
       - **New Game**<br>
-        Start a new game. Player can start a fresh game, beginning from the first level and progressing through the game's challenges and levels.
+        Start a new game. Player can start a fresh game, beginning from the first level and progressing through the game's challenges and levels. If there is a game history, but the player want to start a new game, the data in the linked list and the `savedGame.txt` file will be erased.
       - **Continue**<br>
-        Save progress and resume the game from where you left off. The game will read the txt file that saved player status in order to let the player resume the game that the player left off last time.
+        The game will read the `savedGame.txt` file that saved player status in order to let the player resume the highest level that the player left off last time. If there is no game history, but the player accidentally choose `Continue` game, the game will automatically start from the level 1. 
       - **Exit**<br>
         Exit the game. Close the entire gameplay.<br>
-   **After enter the game**<br>
+**After enter the game**<br>
       - **Restart Game**<br>
-        Restart the game from the beginning which is Level 1.<br>
+        Restart the game from the beginning which is Level 1. When we restart the game, the data in the linked list and the `savedGame.txt` file will be erased.<br>
       - **Continue Game**<br>
-        Proceed to the next level of the game from the current level. The money earned by the player in the current level wil be saved.
+        Proceed to the next level of the game from the current level. The money earned by the player in the current level wil be saved in `price.txt` file while status of the player will be saved in the linked list and `savedGame.txt` file. 
       - **Replay**<br>
-        Replay the same level to provide an opportunity to enhance player performance or allow player experiment with different strategies. Although the player replay the game the the p
+        Replay the same level to provide an opportunity to enhance player performance or allow player experiment with different strategies. The money earned by the player in the current level wil be saved in `price.txt` file while status of the player will be saved in the linked list and `savedGame.txt` file. Although the player replay the game, the previous money earned by the player in the particular level will not be erased. 
       - **Quit**<br>
-        Option to quit the game after completing the current level. The current progress and the status of the player, and the money earned by the player will be saved to the txt file.Players can also choose to quit the game after completing the current level.
+        Choose to quit the game after completing the current level. The money earned by the player in the current level wil be saved in `price.txt` file while status of the player will be saved in the linked list and `savedGame.txt` file. The highest earning in each level will be display to the player.
    
-By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfil their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure.
+By combining all these features, the text-based restaurant game offers an immersive experience where players can fulfil their culinary dreams, manage their own restaurant, and embark on an exciting culinary adventure. 
 
 ## How to play the game 
 1. Launch the game and enter the main menu.
