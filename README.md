@@ -97,7 +97,9 @@ We used stacks in
 - **Queues**<br>
 We use Queues to save the type of dishes and the amount of each type of the dishes in to a queue. When the pl
 ## Screenshots of the game 
-![newwwww](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/46ccf9f8-0d89-4564-b2fe-03f63a303ab1)
+
+![1st screenshot](https://github.com/jiajoo-alt/Hackathon_2/assets/120643036/5b230315-2717-4d6b-a531-2fcb75bddf7f)
+
 
 ## Link to the game demo video
 [press](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#uploading-assets) 
