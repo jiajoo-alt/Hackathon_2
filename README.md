@@ -76,9 +76,9 @@ By combining all these features, the text-based restaurant game offers an immers
 ## How to play the game 
 1. Launch the game and enter the main menu.
 2. In the menu, the player will have options to choose from.
-   - **New Game**：Start a new game.
-   - **Continue**： Resume the game from where the player left off last time without losing any of their accomplishments.
-   - **Exit**： Exit the game and close the game entirely. 
+   - **New Game**: Start a new game.
+   - **Continue**: Resume the game from where the player left off last time without losing any of their accomplishments.
+   - **Exit**: Exit the game and close the game entirely. 
 3. Game starts, the player selects the **desired dishes** from the menu and **specify the quantity** required to fulfill the level's requirements.
 4. Once players have made their selection, the game will provide a list of ingredients needed for the chosen dishes.
 5. Player needs to enter the **correct sequence** of ingredients in order to successfully prepare the dishes
