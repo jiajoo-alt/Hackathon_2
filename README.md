@@ -19,6 +19,7 @@ The Hungry Muse Restaurant is an interactive cooking game that allows players to
 Each level presents a new challenge and culinary opportunity. For example, in Level 1, the scent of success fills the air as the tables quickly fill up. Your task is to prepare a total of 2 mouthwatering dishes to serve your eager customers. However, there's a twist - you won't be limited to a single dish. The menu boasts a delightful array of options, including Hamburger, Pizza, Taco, Bagel, and Pasta. Choose wisely to meet the quantity requirements for each customer, and remember that some of the ingredients can be repeated, allowing for creative combinations and flavors.
 
 **`Storyline`**<br>
+
 One day, after a tiring day at work, you unexpectedly received a letter from your grandpa. In the letter, he tells you that he is retiring soon and hopes that you will inherit his beloved restaurant. After thinking hard about it for a few days, you decide that it's time to step away from your hectic white-collar job and pick up your old passion: cooking. You return to your grandpa's place to continue his legacy and embark on an exciting culinary adventure. In The Hungry Muse Restaurant, you will take on the role of a budding chef, tasked with running and managing your grandpa's restaurant. Your goal is to create a thriving dining establishment and earn a reputation as a masterful chef.
 
 Put on your apron, sharpen your knives, and let your culinary adventure begin! As you progress through the game, you'll unlock new levels and face increasing challenges. Manage your resources effectively to satisfy your customers and earn their loyalty.
@@ -36,7 +37,7 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
    Manage recipes for each dish, including ingredients and preparation steps. This is really crucial as it can add depth to the gameplay as players need to consider the correct sequence of steps to successfully prepare and serve the dish to the customer. If the players enter the incorrect step, we will offer hints to the player by telling them which step is incorrect.
 
 3. **Financial Management**<br>
-   The player is able to earn money based on the food they choose to prepare. The game can track the player's earnings. Throughout the game, all the money earned by the player in each level will be retained and saved into a `price.txt`. When the player decides to `quit` the game, a comprehensive summary will be presented, highlighting the player's highest earnings achieved in each level. This allows the player to see their best financial achievements in each level and serves as a record throughout their gameplay experience.
+   The player is able to earn money based on the food they choose to prepare. The game can track the player's earnings. Throughout the game, all the money earned by the player in each level will be retained and saved into a `price.txt`. When the player decides to quit the game, a comprehensive summary will be presented, highlighting the player's highest earnings achieved in each level. This allows the player to see their best financial achievements in each level and serves as a record throughout their gameplay experience.
 
 5. **Level Progression**<br>
    The game can feature multiple levels, each with increasing difficulty and quantity requirements. As players progress, they can unlock new levels to enhance their culinary abilities.
@@ -51,7 +52,7 @@ Are you ready to embrace your cooking legacy, honor your grandpa's restaurant, a
       - **New Game**<br>
         Start a new game. Players can start a fresh game, beginning from the first level and progressing through the game's challenges and levels. If there is a game history, but the player wants to start a new game, the data in the linked list and the `savedGame.txt` will be erased.
       - **Continue**<br>
-        The game will read the `savedGame.txt` that saved player status in order to let the player resume the highest level that the player left off last time. If there is no game history, but the player accidentally chooses the `Continue` game, the game will automatically start from level 1. 
+        The game will read the `savedGame.txt` that saved player status in order to let the player resume the highest level that the player left off last time. If there is no game history, but the player accidentally chooses the Continue game, the game will automatically start from level 1. 
       - **Exit**<br>
         Exit the game. Close the entire gameplay.<br>
         
@@ -85,7 +86,7 @@ By combining all these features, the text-based restaurant game offers an immers
       - **Replay Succeeded Game**: Replay the same level to improve your performance or try different strategies.
       - **Quit**: Exit the game and close the game entirely. <br>
       
-   Note: The `Replay Succeeded Game` option is only available from Level **2**.
+   Note: The Replay Succeeded Game option is only available from **Level 2**.
 
 
 ## How object-oriented concepts were used to develop your game 
