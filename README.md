@@ -1,4 +1,8 @@
-# Hackathon_2
+# Hackathon_2<br>
+**Group 13**
+1. Tan Jia Joo 163573
+2. Tan Ke Jun 163204
+3. Yong Pei Yi, Angeline 163842
 
 The Hungry Muse Restaurant
 ------------------------------------------------------------
